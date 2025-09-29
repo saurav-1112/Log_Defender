@@ -1,0 +1,40 @@
+keywords:
+  - keylogger
+  - pynput
+  - hook
+  # - keyboard
+  # - capture
+  # - record
+  - keystroke
+  - lisatener
+  # - intercept
+  # - grabber
+  # - logger
+  # - inputhook
+  # - keyhook
+  # - spy
+  # - monitor
+  # - screenshot
+  # - cliplogger
+  # - stealer
+  # - remote
+  # - rat
+  # - inject
+  # - dllinject
+  # - persistence
+  # - taskhide
+  # - hidewindow
+  # - rootkit
+  # - backdoor
+  # - malware
+  # - trojan
+  # - sniffer
+  # - payload
+  # - c2
+  # - command&control
+  # - bindshell
+  # - reverse_shell
+  # - scrape
+  # - exfiltrate
+  # - obfuscate
+  # - cryptor

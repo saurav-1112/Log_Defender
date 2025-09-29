@@ -1,0 +1,6 @@
+virus_total_api_key: "f549b3c6c918b485e5d60b464827f8135934db568a793ee2091c1351fc5ac3a9"
+url: "https://www.virustotal.com/api/v3/files/"
+email:
+  sender: abc@gmail.com
+  password: app-password
+  receiver: xyz@gmail.com

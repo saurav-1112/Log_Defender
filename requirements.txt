@@ -1,0 +1,17 @@
+customtkinter
+tk-tools
+ttkbootstrap
+streamlit
+streamlit_apexjs
+psutil
+pynput
+requests
+pyinstaller
+pyyaml
+db-sqlite3
+pandas
+docker
+
+secure-smtplib
+python-dotenv
+email-to
